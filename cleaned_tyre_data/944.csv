@@ -1,0 +1,20 @@
+NAME,Stint 1,Stint 2,Stint 3,Stint 4,driverId,lastName
+Nico Rosberg,Soft (13),Medium (20),Medium (15),Medium (23),3,rosberg
+Lewis Hamilton,Soft (14),Medium (20),Medium (15),Medium (22),1,hamilton
+Sebastian Vettel,Soft (13),Medium (19),Soft (15),Medium (24),20,vettel
+Kimi Raikkonen,Soft (12),Medium (34),Medium (25),,8,raikkonen
+Valtteri Bottas,Soft (11),Medium (30),Medium (29),,822,bottas
+Nico Hulkenberg,Soft (9),Medium (26),Medium (35),,807,hulkenberg
+Daniil Kvyat,Soft (10),Medium (29),Medium (31),,826,kvyat
+Felipe Massa,Soft (10),Medium (28),Medium (17),Medium (15),13,massa
+Romain Grosjean,Soft (10),Medium (25),Medium (19),Soft (16),154,grosjean
+Max Verstappen,Soft (11),Medium (23),Medium (19),Soft (17),830,verstappen
+Pastor Maldonado,Medium (25),Soft (19),Medium (26),,813,maldonado
+Daniel Ricciardo,Soft (3),Medium (25),Medium (24),Soft (18),817,ricciardo
+Sergio Perez,Soft (10),Medium (23),Medium (18),Soft (19),815,perez
+Felipe Nasr,Soft (14),Medium (25),Medium (31),,831,nasr
+Jenson Button,Soft (12),Medium (19),Soft (20),Soft (19),18,button
+Fernando Alonso,Soft (13),Medium (19),Soft (20),Soft (18),4,alonso
+Marcus Ericsson,Soft (12),Medium (20),Medium (21),Soft (16),828,ericsson
+Will Stevens,Soft (15),Medium (25),Medium (27),,829,stevens
+Alexander Rossi,Soft (14),Medium (27),Medium (26),,834,rossi
